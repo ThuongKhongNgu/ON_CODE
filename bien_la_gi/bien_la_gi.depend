@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709979813 source:d:\code c basic\bien_la_gi\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735886973 source:d:\code c basic\chia_het_3_5\main.c
+	<stdio.h>
+	<stdlib.h>
+

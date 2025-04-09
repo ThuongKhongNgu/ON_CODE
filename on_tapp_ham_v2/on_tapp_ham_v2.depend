@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738091222 source:d:\code c basic\on_tapp_ham_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+

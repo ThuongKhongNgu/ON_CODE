@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735829327 source:d:\code c basic\gia_tri_bieu_thuc\main.c
+	<stdio.h>
+	"math.h"
+
